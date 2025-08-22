@@ -15,3 +15,7 @@ This is *Italicized Text*
 ### This is an image
 
 ![This is octoc](https://myoctocat.com/assets/images/base-octocat.svg)
+
+### Journal Entries
+
+Visit my [Journal 01](Journal/8-26-2025_entry.md)
