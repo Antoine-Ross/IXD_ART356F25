@@ -14,4 +14,4 @@ This is *Italicized Text*
 
 ### This is an image
 
-![This is a water bear](https://www.nationalgeographic.com/animals/invertebrates/facts/tardigrades-water-bears)
+![This is octoc](https://myoctocat.com/assets/images/base-octocat.svg)
