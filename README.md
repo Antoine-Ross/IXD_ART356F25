@@ -4,7 +4,7 @@ This repo is going to host all of my readings and projects for the ART 356 cours
 
 ## In-Class Esercises
 
-[Character/Scene Randomizer EX1](exercises/sceneRandomizer/index.html)
+[Character/Scene Randomizer EX 1](exercises/scenerandomizer/index.html)
 
 Add more text
 
