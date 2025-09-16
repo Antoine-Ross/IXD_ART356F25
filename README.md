@@ -2,6 +2,10 @@
 
 This repo is going to host all of my readings and projects for the ART 356 course.
 
+## In-Class Esercises
+
+[Character/Scene Randomizer EX1](exercises/sceneRandomizer/index.html)
+
 Add more text
 
 This is a link -> [To the P5js website](https://p5js.org/)
