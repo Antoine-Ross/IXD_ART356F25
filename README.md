@@ -2,9 +2,13 @@
 
 This repo is going to host all of my readings and projects for the ART 356 course.
 
+## Class Projects
+
+[Project 1 Randomizer](Projects/Project 1 Randomizer/sketch.js)
+
 ## In-Class Esercises
 
-[Character/Scene Randomizer EX 1](exercises/scenerandomizer/index.html)
+[Character/Scene Randomizer EX 1](exercises/scenerandomizer/sketch.js)
 
 Add more text
 
