@@ -14,6 +14,12 @@ Add more text
 
 This is a link -> [To the P5js website](https://p5js.org/)
 
+
+### Journal Entries
+
+Visit my [Journal 01](Journal/8-26-2025_entry.md)
+
+
 ## This is Text Styles
 
 This is **BOLD TEXT**
@@ -22,8 +28,4 @@ This is *Italicized Text*
 
 ### This is an image
 
-![This is octoc](https://myoctocat.com/assets/images/base-octocat.svg)
-
-### Journal Entries
-
-Visit my [Journal 01](Journal/8-26-2025_entry.md)
+![This is octoc]()
