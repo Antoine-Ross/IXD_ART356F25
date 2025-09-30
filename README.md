@@ -4,7 +4,7 @@ This repo is going to host all of my readings and projects for the ART 356 cours
 
 ## Class Projects
 
-[Project 1 Randomizer](Projects/Project 1 Randomizer/sketch.js)
+[Project 1 Randomizer](Projects/Project1Randomizer/sketch.js)
 
 ## In-Class Esercises
 
