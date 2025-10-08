@@ -1,0 +1,4 @@
+# Ch 2 of DOET: THE PSYCHOLOGY OF EVERYDAY ACTIONS
+
+- What stood out to me most in Chapter 2 was Norman’s idea of the “gulfs” between intention and action. The gap between what we want to do and how the design lets us do it. I instantly thought of the times I’ve tried to use things like a hotel shower or a public restroom faucet and had no idea which way to turn or push. I’d get frustrated and think I was just being slow, but Norman’s point that it’s not user error, it’s design error completely changes how I see those moments.
+- The seven stages of action also made sense to me. It was interesting to realize that every little thing I do from sending a text to opening a door follows that same mental process. When something goes wrong, it’s usually because one of those stages was poorly supported by design like when there’s no feedback after pressing a button, so I keep pressing it and mess things up.
