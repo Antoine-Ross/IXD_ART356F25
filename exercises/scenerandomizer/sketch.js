@@ -19,7 +19,7 @@ function preload() {
 
   surface1 = loadImage("Surface1.png");
   surface2 = loadImage("Surface2.png");
-  surface3 = loadImage("Surface3.png");
+  surface3 = loadImage("surface3.png");
   moons1 = loadImage("Moons1.png");
   moons2 = loadImage("Moons2.png");
   moons3 = loadImage("Moons3.png");
