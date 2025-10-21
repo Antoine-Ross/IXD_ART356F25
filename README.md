@@ -19,6 +19,7 @@ This is a link -> [To the P5js website](https://p5js.org/)
 
 Visit my [Journal 01](Journal/8-26-2025_entry.md)
 [Journal 02](Journal/CH2_Entry.md)
+[Journal 03](Journal/CH4_PT1.md)
 
 
 ## This is Text Styles
