@@ -9,6 +9,7 @@ This repo is going to host all of my readings and projects for the ART 356 cours
 ## In-Class Esercises
 
 [Character/Scene Randomizer EX 1](exercises/scenerandomizer/index.html)
+[Mini Data Visualization](exercises/DataVisualization/index.html)
 
 Add more text
 
