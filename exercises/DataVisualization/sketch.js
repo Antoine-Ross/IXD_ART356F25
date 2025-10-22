@@ -107,7 +107,7 @@ function drawPie(x, y, d, values, colors, title) {
   textAlign(CENTER, BOTTOM);
   text(title, x, y - d / 2 - 10);
 
-  //
+  //create and fill pie slices
   let total = values.reduce((a, b) => a + b, 0);
 
   let startAngle = 0;
