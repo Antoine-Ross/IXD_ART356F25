@@ -6,7 +6,7 @@ This repo is going to host all of my readings and projects for the ART 356 cours
 
 [Project 1 Randomizer](projects/Project1_Randomizer/index.html) 
 
-[Project 2 Data Visualization](projects/DataVisualization/index.html) 
+Project 2 Data Visualization 
 
 ## In-Class Esercises
 
