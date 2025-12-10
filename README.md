@@ -8,6 +8,8 @@ This repo is going to host all of my readings and projects for the ART 356 cours
 
 [Project 2 Data Visualization](projects/DataVisualization/index.html) 
 
+[Final Platformer Project](projects/PlatformerFinal/index.html)
+
 ## In-Class Esercises
 
 [Character/Scene Randomizer EX 1](exercises/scenerandomizer/index.html)
